@@ -12,7 +12,4 @@ public void test{ int x=10; System.out.println(x); }
 
 Output:
 
-public void test {
-   int x=10;
-   System.out.println(x);
-}
+Formatts the input with tabs and lines
